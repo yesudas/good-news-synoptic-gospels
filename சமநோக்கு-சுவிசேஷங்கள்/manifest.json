@@ -1,0 +1,22 @@
+{
+  "name": "சமநோக்கு சுவிசேஷங்கள் - Synoptic Gospels and Jews Commentary",
+  "short_name": "சுவிசேஷங்கள்",
+  "description": "சமநோக்கு சுவிசேஷங்கள் - Synoptic Gospels Commentary, from www.wordofgod.in",
+  "start_url": "/good-news-collections/சமநோக்கு-சுவிசேஷங்கள்/",
+  "scope": "/good-news-collections/சமநோக்கு-சுவிசேஷங்கள்/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196f3",
+  "icons": [
+    {
+      "src": "/good-news-collections/சமநோக்கு-சுவிசேஷங்கள்/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/good-news-collections/சமநோக்கு-சுவிசேஷங்கள்/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
